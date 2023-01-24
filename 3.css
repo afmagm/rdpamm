@@ -5,13 +5,16 @@
 		}
 
 		html {
+			margin: 0px auto;
 			scroll-behaviour: smooth;
 		}
 
 		:root {
+			margin: 0px auto;
 			--navbar-height: 59px;
 		}
 		.logo {
+			margin: 0px auto;
 			width: 20%;
 			display: flex;
 			justify-content: center;
@@ -19,12 +22,14 @@
 		}
 
 		.logo img {
+			margin: 0px auto;
 			width: 33%;
 			border: 2px solid white;
 			border-radius: 50px;
 		}
 
 		.navbar {
+			margin: 0px auto;
 			display: flex;
 			align-items: center;
 			justify-content: center;
@@ -34,23 +39,27 @@
 		}
 
 		.nav-list {
+			margin: 0px auto;
 			width: 70%;
 			display: flex;
 		}
 
 		.nav-list li {
+			margin: 0px auto;
 
 			list-style: none;
 			padding: 2px 6px;
 		}
 
 		.nav-list li a {
+			margin: 0px auto;
 
 			text-decoration: none;
 			color: white;
 		}
 
 		.nav-list li a:hover {
+			margin: 0px auto;
 			color: grey;
 		}
 
@@ -87,6 +96,7 @@
 		}
 
 		.firstHalf {
+			margin: 0px auto;
 			width: 75%;
 			display: flex;
 			flex-direction: column;
@@ -94,11 +104,13 @@
 		}
 
 		.firstHalf img {
+			margin: 0px auto;
 			display: flex;
 			border-radius: 9050px;
 		}
 
 		.text-big {
+			margin: 0px auto;
 			font-family: 'Piazzolla', serif;
 			font-weight: bold;
 			font-size: 41px;
@@ -106,17 +118,20 @@
 		}
 
 		.text-small {
+			margin: 0px auto;
 			font-family: 'Sansita Swashed', cursive;
 			font-size: 18px;
 			text-align: center;
 		}
 
 		#service {
+			margin: 0px auto;
 			margin: 34px;
 			display: flex;
 		}
 
 		#service .box {
+			margin: 0px auto;
 			padding: 100px;
 			margin: 3px 6px;
 			border-radius: 28px;
