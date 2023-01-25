@@ -43,7 +43,7 @@ a{
     -webkit-transform: translateZ(0); backface-visibility: hidden;
   scale(1.0, 1.0);
     transform: translateZ(0);
-  background:#1B2030 url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.etechspider.com%2Fwp-content%2Fuploads%2FHow-Cloud-Server-Works.jpg&f=1&nofb=1&ipt=9ae4c25094fa68696b8ba463158e6d9d5e0f815f84c542ce1a43c0b253f471b5&ipo=images) 50% 0 no-repeat;
+  background: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.etechspider.com%2Fwp-content%2Fuploads%2FHow-Cloud-Server-Works.jpg&f=1&nofb=1&ipt=9ae4c25094fa68696b8ba463158e6d9d5e0f815f84c542ce1a43c0b253f471b5&ipo=images) 50% 0 no-repeat;
   background-size:100%;
   background-attachment:fixed;
   animation: grow 360s  linear 10ms infinite;
