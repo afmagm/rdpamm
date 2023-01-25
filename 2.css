@@ -43,7 +43,7 @@ a{
     -webkit-transform: translateZ(0); backface-visibility: hidden;
   scale(1.0, 1.0);
     transform: translateZ(0);
-  background: #1B2030  url(https://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2014/03/database-servers.jpg) 50% 0 no-repeat;
+  background:   url(https://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2014/03/database-servers.jpg) 50% 0 no-repeat;
   background-size:100%;
   background-attachment:fixed;
   animation: grow 360s  linear 10ms infinite;
